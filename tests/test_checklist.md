@@ -16,4 +16,4 @@ How to run: open `src/index.html` in a browser (or visit the live GitHub Pages s
 | MT-8 | NFR-2 | Open the page in Chrome and Firefox. | Layout and tab switching work in both. | |
 | MT-9 | NFR-4 | Visit the GitHub Pages URL after a merge to `main`. | The live site matches the latest merged changes. | |
 
-**Tester:** [Your Name]  **Date:** [Date]
+
