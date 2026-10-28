@@ -27,10 +27,10 @@ The customer (MSR Research Group Lead) asked for a simple, clean reference page 
 
 | Milestone | Scope | Issues |
 |---|---|---|
-| 3: Collection Methods Content | All 6 methods with purpose and pros/cons | [link] |
-| 4: Analysis Methods Content | All 8 methods with type and use cases | [link] |
-| 5: Publication Venues Content | All 9 venues, conference/journal split, MSR relevance | [link] |
-| 6: Styling & Polish | Responsive layout, final visual polish | [link] |
+| 3: Collection Methods Content | All 6 methods with purpose and pros/cons | https://github.com/zomoit/msr-knowledge-web/milestone/3 |
+| 4: Analysis Methods Content | All 8 methods with type and use cases | https://github.com/zomoit/msr-knowledge-web/milestone/4|
+| 5: Publication Venues Content | All 9 venues, conference/journal split, MSR relevance | https://github.com/zomoit/msr-knowledge-web/milestone/5 |
+| 6: Styling & Polish | Responsive layout, final visual polish | https://github.com/zomoit/msr-knowledge-web/milestone/6 |
 
 ## Repository Structure
 
