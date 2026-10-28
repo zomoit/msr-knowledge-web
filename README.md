@@ -66,6 +66,4 @@ npm test
 - `test/page-structure-navigation` holds the tests and CI workflow.
 - Each branch was merged to `main` through a pull request that closes its issue.
 
-## Generative AI Use Declaration
 
-[State here whether and how you used generative AI tools, as your course policy requires.]
